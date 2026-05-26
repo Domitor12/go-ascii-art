@@ -4,6 +4,8 @@ A powerful command-line tool written in Go that converts text into beautiful ASC
 Author
 
 VINCENT ONYECHEREM IKENNA
+
+
 Features
 
     Multiple Font Styles: Choose from three distinct ASCII art styles
