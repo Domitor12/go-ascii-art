@@ -1,0 +1,2 @@
+# go-ascii-art
+Ascii-art is a program which consists in receiving a string as an argument and outputting the string in a graphic representation using ASCII. What i mean by a graphic representation using ASCII, is to write the string received using ASCII characters.
