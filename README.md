@@ -177,15 +177,3 @@ Acknowledgments
     Uses Go's standard library packages: fmt, os, strings
 
 Happy Text Formatting! 📝
-text
-
-
-This README provides:
-- Clear project description and features
-- Installation and usage instructions
-- Comprehensive examples of all transformation rules
-- Detailed explanation of how the program works
-- Development information and function reference
-- Limitations and potential improvements
-- Professional formatting suitable for GitHub
-
